@@ -3,7 +3,7 @@
 ![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%20Engine%205.4+-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Death Forged** is an Elden Ring/Dark Souls inspired Action RPG built to showcase advanced Unreal Engine systems. Focused on precision combat and atmospheric exploration, players traverse a punishing open world, harvesting XP from fallen beasts to fuel their progression.
+**Project Hollow** follows Nolan Smith, A lumberjack who travels to the fog covered island of Dunhollow, following the only lead to his missing grandfather – Only to find a startling truth far darker than he ever could've imagined.   
 
 ## 🛠 Project Details
 * **Engine Version:** Unreal Engine 5.6.4
