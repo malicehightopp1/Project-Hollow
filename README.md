@@ -23,23 +23,12 @@
 ---
 
 ## ⚔️ Features
-* **Smooth Souls-like Combat:** Frame-accurate hit detection and stamina-based maneuvering.
-* **Open World Traversal:** Seamless exploration across diverse environments.
-* **Persistent Progression:** XP-based leveling and attribute growth.
 
 ## ⚙️ Core Systems
-* **Inventory System:** Management of consumables, weapons, and equipment.
-* **Shop System:** Dynamic NPCs for trading and upgrading gear.
-* **XP & Attribute System:** Scaling difficulty and character customization.
 
 ## 🏗 Architecture Overview
 
 ## 🎮 Controls
-| Action | Key (KB/M) | Button (Gamepad) |
-| :--- | :--- | :--- |
-| Attack | Left Click | RB / R1 |
-| Dodge | Space | B / Circle |
-| Interact | E | X / Square |
 
 ---
 
