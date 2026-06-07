@@ -6,9 +6,9 @@
 **Project Hollow** follows Nolan Smith, A lumberjack who travels to the fog covered island of Dunhollow, following the only lead to his missing grandfather – Only to find a startling truth far darker than he ever could've imagined.   
 
 ## 🛠 Project Details
-* **Engine Version:** Unreal Engine 5.6.4
+* **Engine Version:** Unreal Engine 5.7.4
 * **Language:** C++ / Blueprints
-* **Genre:** Third-Person Action RPG
+* **Genre:** Fixed camera Atmospheric horror
 
 ---
 
